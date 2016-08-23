@@ -1,0 +1,25 @@
+div {
+	border: solid 1px red;
+	width: 190px;
+	height: 210px;
+}
+
+h4{
+	font-color:black;
+	margin-left: 10px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+p{
+	margin:10px;
+	font-size: 13px;
+}
+
+.emprendimiento{
+	height:190px;
+}
+
+.aprender{
+	height: 220px;
+}

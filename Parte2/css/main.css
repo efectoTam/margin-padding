@@ -1,0 +1,18 @@
+div {
+	border: solid 2px orange;
+	width: 220px;
+	height: 240px;
+	margin-bottom: 10px;
+}
+
+h4{
+	font-color:black;
+	margin-left: 10px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+p{
+	margin:10px;
+	font-size: 16px;
+}
